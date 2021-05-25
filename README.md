@@ -1,2 +1,2 @@
-# wallstreet-capitalist
-A stockmarket simulator game using real-world stock data. User can spend virtual money to trade on the stockmarket as they would in real life, without the risk of losing real money. Great for practice.
+# WSC
+Stockmarket simulator where you can spend fake money on a real simulation of the stock-market.
